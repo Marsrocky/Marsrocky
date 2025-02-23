@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Hello, I'm Jianfei Yang!  
 
-<!--
-**Marsrocky/Marsrocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Assistant Professor at NTU | Multimodal AI & Robotics Researcher | Leader of MARS Lab**  
 
-Here are some ideas to get you started:
+I am an **Assistant Professor at Nanyang Technological University (NTU)**, leading the **Multimodal AI and Robotic Systems (MARS) Lab**. My group studies **Physical AI**, focusing on how **AI enables physical systems**—such as **robotics, IoT, and industrial automation**—to perceive, understand, and interact with the real world.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Much like human intelligence, AI evolves by continuously gaining and exchanging information with its environment. This drives our research in:  
+- **Multimodal Perception** 🤖: Integrating vision, radar, and wireless sensing for real-world intelligence.  
+- **Embodied AI** 🦾: AI-driven robotic perception, action learning, and adaptive control.  
+- **AIoT & TinyML** 📡: Building lightweight AI models for efficient edge computing.  
+- **On-Device AI** 🧠: Exploring compact, real-time AI models for mobile and robotics applications.  
+
+---
+
+### 🔬 Featured Research Projects  
+📌 **[MM-Fi Dataset](https://ntu-aiot-lab.github.io/mm-fi)**: A large-scale **WiFi+mmWave** dataset for human activity recognition.  
+📌 **[SenseFi Library](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)**: A benchmark suite for **WiFi-CSI sensing applications** in AIoT.  
+
+---
+
+### 🎓 About Me  
+- 🎓 **B.Eng.** from SYSU (2016), **Ph.D.** from NTU (2020, Best Thesis Award, advised by Prof. Xie Lihua).  
+- 🔬 **Past Roles**: Senior Research Engineer at **BEARS, UC Berkeley (2021)**, Presidential Postdoctoral Fellow at **NTU (2021-2023)**.  
+- 🌍 **Visiting Scientist** at the **University of Tokyo (2024)** with **Prof. Tatsuya Harada**.  
+- 📡 **Visiting Professor** at **Harvard University (2024)** with **Prof. Vijay Janapa Reddi**.  
+
+---
+
+### 🏆 Awards & Honors  
+- 🏅 **World’s Top 2% Scientists (2022-present)** – Stanford University.  
+- 🔥 **Forbes Asia 30 Under 30 (Class of 2024)**.  
+- 🎖 **Winner of 10+ International AI Competitions**, including **IEEE, ACM, and industry-led hackathons**.  
+- 🎤 **Invited Participation at China’s 1st AI Talk Show** *“燃烧吧，天才程序员”*.  
+
+---
+
+### ✉️ Connect with Me  
+🌐 **Website**: [My Homepage](https://marsyang.site/) *(Replace with actual site)*  
+📖 **Google Scholar**: [Scholar Profile](https://scholar.google.com.sg/citations?user=V25k08UAAAAJ&hl=en)  
+📧 **Email**: [jianfei.yang@ntu.edu.sg](mailto:jianfei.yang@ntu.edu.sg)  
+
+💡 Open to collaborations in embodied AI, robotics, and multimodal perception—let’s push the boundaries of **Physical AI** together! 🚀  
+
+---
