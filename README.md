@@ -4,7 +4,7 @@
 
 I am an **Assistant Professor at Nanyang Technological University (NTU)**, leading the **Multimodal AI and Robotic Systems (MARS) Lab**. My group studies **Physical AI**, focusing on how **AI enables physical systems**—such as **robotics, IoT, and industrial automation**—to perceive, understand, and interact with the real world.  
 
-Much like human intelligence, AI evolves by continuously gaining and exchanging information with its environment. This drives our research in:  
+Much like human intelligence, AI evolves by continuously gaining and exchanging information with its environment. This drives our Physical AI research in:  
 - **Multimodal Perception** 🤖: Integrating vision, radar, and wireless sensing for real-world intelligence.  
 - **Embodied AI** 🦾: AI-driven robotic perception, action learning, and adaptive control.  
 - **AIoT & TinyML** 📡: Building lightweight AI models for efficient edge computing.  
@@ -29,7 +29,7 @@ Much like human intelligence, AI evolves by continuously gaining and exchanging 
 ### 🏆 Awards & Honors  
 - 🏅 **World’s Top 2% Scientists (2022-present)** – Stanford University.  
 - 🔥 **Forbes Asia 30 Under 30 (Class of 2024)**.  
-- 🎖 **Winner of 10+ International AI Competitions**, including **IEEE, ACM, and industry-led hackathons**.  
+- 🎖 **1st Place Winner of 10+ International AI Competitions** by both top-tier conferences and industries.  
 - 🎤 **Invited Participation at China’s 1st AI Talk Show** *“燃烧吧，天才程序员”*.  
 
 ---
