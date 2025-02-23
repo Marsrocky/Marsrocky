@@ -1,6 +1,7 @@
 ## 👋 Hello, I'm Jianfei Yang!  
 
-🚀 **Assistant Professor at NTU | Multimodal AI & Robotics Researcher | Leader of MARS Lab**  
+🚀 **Assistant Professor at NTU**   
+🪐**Leading Multimodal AI & Robotic Systems (MARS) Lab**     
 
 I am an **Assistant Professor at Nanyang Technological University (NTU)**, leading the **Multimodal AI and Robotic Systems (MARS) Lab**. My group studies **Physical AI**, focusing on how **AI enables physical systems**—such as **robotics, IoT, and industrial automation**—to perceive, understand, and interact with the real world.  
 
@@ -13,8 +14,8 @@ Much like human intelligence, AI evolves by continuously gaining and exchanging 
 ---
 
 ### 🔬 Featured Research Projects  
-📌 **[MM-Fi Dataset](https://ntu-aiot-lab.github.io/mm-fi)**: A large-scale **WiFi+mmWave** dataset for human activity recognition.  
-📌 **[SenseFi Library](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)**: A benchmark suite for **WiFi-CSI sensing applications** in AIoT.  
+📌 **[MM-Fi Dataset](https://ntu-aiot-lab.github.io/mm-fi)**: A large-scale **multimodal** dataset for human perception.  
+📌 **[SenseFi Library](https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark)**: A benchmark suite for **deep learning empowered WiFi CSI sensing** in AIoT.  
 
 ---
 
@@ -35,8 +36,8 @@ Much like human intelligence, AI evolves by continuously gaining and exchanging 
 ---
 
 ### ✉️ Connect with Me  
-🌐 **Website**: [My Homepage](https://marsyang.site/) *(Replace with actual site)*  
-📖 **Google Scholar**: [Scholar Profile](https://scholar.google.com.sg/citations?user=V25k08UAAAAJ&hl=en)  
+🌐 **Website**: [[Personal]](https://marsyang.site/) | [[MARS Lab]](https://marslab.tech/)     
+📖 **Google Scholar**: [[Scholar Profile]](https://scholar.google.com.sg/citations?user=V25k08UAAAAJ&hl=en)  
 📧 **Email**: [jianfei.yang@ntu.edu.sg](mailto:jianfei.yang@ntu.edu.sg)  
 
 💡 Open to collaborations in embodied AI, robotics, and multimodal perception—let’s push the boundaries of **Physical AI** together! 🚀  
