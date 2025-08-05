@@ -6,9 +6,8 @@
 I am an **Assistant Professor at Nanyang Technological University (NTU)**, leading the **Multimodal AI and Robotic Systems (MARS) Lab**. My group studies **Physical AI**, focusing on how **AI enables physical systems**—such as **robotics, IoT, and industrial automation**—to perceive, understand, and interact with the real world.  
 
 Much like human intelligence, AI evolves by continuously gaining and exchanging information with its environment. This drives our Physical AI research in:  
-- **Multimodal Perception** 🤖: Integrating vision, radar, and wireless sensing for real-world intelligence.  
-- **Embodied AI** 🦾: AI-driven robotic perception, action learning, and adaptive control.  
-- **AIoT & TinyML** 📡: Building lightweight AI models for efficient edge computing.  
+- **Embodied/Physical AI** 🦾: AI-driven robotic perception, locomotion, and manipulation.  
+- **Multimodal Perception** 🤖: Integrating vision, radar, and wireless sensing for real-world physical intelligence.  
 - **On-Device AI** 🧠: Exploring compact, real-time AI models for mobile and robotics applications.  
 
 ---
